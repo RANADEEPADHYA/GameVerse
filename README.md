@@ -1,4 +1,4 @@
-# First-Website
+# GameVerse
 
 # 🎮 Board — Gaming Landing Page
 
