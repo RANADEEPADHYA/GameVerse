@@ -34,7 +34,4 @@ It features bold colors, neon gradients, and sleek glassmorphism effects — com
 - **Google Fonts** — Using Lato for a clean, modern typography  
 - **Font Awesome / Custom Icons** — Used for menu and section icons  
 
----
-
-## 📂 Project Structure
 
